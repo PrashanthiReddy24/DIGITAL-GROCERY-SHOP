@@ -1,1 +1,1 @@
-demo video
+document of the project
